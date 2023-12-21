@@ -1,37 +1,13 @@
-<img src="./banner.png">
+<img src="./banner.png" />
 
-# hardhat-template
+# Smart Contracts
+This repository is to serve as a complement to Don Function's YouTube channel, where anyone can learn to code smart contracts in Solidity!
 
-Smart Contract Development Kit Template, using HardHat
+👉 <a href="https://www.youtube.com/@donfunction">WATCH + SUBSCRIBE</a>
 
-## Introduction
+👉 <a href="https://twitter.com/don_function">FOLLOW ON TWITTER</a>
 
+## WARNING / DISCLAIMER
+While smart contracts typically handle cryptocurrency or units of monetary value, it is important to understand that none of this content, code, accompanying video or media, or anything by Don Function or associated parties, is financial advice of any kind, and none of the aforementioned parties assume the role of a financial advisor. This content is served for educational purposes, tailoring to the programming and technological aspect of Solidity and smart contract development.
 
-
-## Installation
-
-This project requires several depenencies to run all its features. First, install [`Tenderly CLI`](https://github.com/Tenderly/tenderly-cli), then run the following command to log into Tenderly: 
-
-```bash
-tenderly login --authentication-method access-key --access-key {your_access_key} --force
-```
-
-Following this, run the standard installation command:
-
-```bash
-yarn install
-```
-
-## Usage
-
-
-
-## Contributing
-
-
-
-## License
-
-
-
-## Credits
+Additionally, no code provided via this repository or any of the aforementioned parties or outlets, is to be considered 'production-ready'. You should always carefully audit any code you use, and you alone by using this code (in whole or in part) assume full responsibility for its effects. Don't Trust - Verify.

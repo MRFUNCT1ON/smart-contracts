@@ -1,9 +1,11 @@
 node_modules
+
+.secret
+.env
+
+build
 artifacts
 cache
 
 yarn.lock
-
-.env
-
 devnet.yaml
